@@ -2,30 +2,28 @@
 
 ### Task 1
 ```
-На сторінці "Home List" (*/) вивести список постів
+Display a list of posts on the Home List page (*/)
 ```
 
 ### Task 2
 ```
-Додати сторінку перегляду посту, яка повинна відкриватись при натисканні на пост на сторінці "Home List" (*/)
+Add a post preview page that should open when you click on a post on the Home List page (*/)
 ```
 
 ### Task 3
 ```
-На сторінці "Price" (*/price) вивести інформацію про мінімальну і максимальну ціну в заданому періоді. Дані збережені в store -> price
+On the page "Price" (*/price) display information about the minimum and maximum price in a given period. Data already saved in store -> price
 ```
 
 ### Task 4
 ```
-Додати лоадер, який буде відображатись при надсиланні запитав на сервер
+Add a loader that will be displayed when sending requests to the server
 ```
 
 ### Task 5
 ```
-Всі сторінки треба стилізувати, дизайн на Ваш розсуд
+All pages should be stylized, design at your discretion
 ```
-
-## В процесі не можна додавати нові NPM модулі
 
 
 ## Project setup
